@@ -1,0 +1,4 @@
+outs:
+- md5: 9a705a84ea633ebf8aa2e0e690fa56a0
+  size: 244408309
+  path: MyAlexnet.pth
